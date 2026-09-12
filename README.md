@@ -1,6 +1,7 @@
 # Mediciones horarias de temperatura y humedad de un sensor ambiental
 
 Conjunto de datos simulados y programa mínimo de lectura, preparados como actividad del curso Tópicos Avanzados del Análisis de Datos del Doctorado en Ingeniería Aplicada. Este registro será actualizado al final del curso con los datos y el código del trabajo final.
+Los archivos incluidos permiten reproducir la generación, lectura y resumen de los datos.
 
 ## Contenido
 
