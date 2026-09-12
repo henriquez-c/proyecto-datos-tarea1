@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si utiliza estos datos o este codigo, por favor citelos como se indica."
+title: "Mediciones horarias de temperatura y humedad de un sensor ambiental (datos de ejemplo)"
+authors:
+  - family-names: "Henríquez-Manríquez"
+    given-names: "Cristian"
+    orcid: "https://orcid.org/0000-0002-8411-9548"
+    affiliation: "Universidad del Desarrollo, Doctorado en Ingeniería Aplicada"
+version: 1.0.0
+date-released: "2026-09-12"
+license: MIT
+repository-code: "https://github.com/henriquez-c/proyecto-datos-tarea1"
+keywords:
+  - "datos de ejemplo"
+  - "sensores ambientales"
+  - "temperatura"
+  - "humedad"
