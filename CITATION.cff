@@ -6,7 +6,7 @@ authors:
     given-names: "Cristian"
     orcid: "https://orcid.org/0000-0002-8411-9548"
     affiliation: "Universidad del Desarrollo, Doctorado en Ingeniería Aplicada"
-version: 1.0.0
+version: "1.0.0"
 date-released: "2026-09-12"
 license: MIT
 repository-code: "https://github.com/henriquez-c/proyecto-datos-tarea1"
