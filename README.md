@@ -1,4 +1,5 @@
 # Mediciones horarias de temperatura y humedad de un sensor ambiental
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22731159.svg)](https://doi.org/10.5281/zenodo.22731159)
 
 Conjunto de datos simulados y programa mínimo de lectura, preparados como actividad del curso Tópicos Avanzados del Análisis de Datos del Doctorado en Ingeniería Aplicada. Este registro será actualizado al final del curso con los datos y el código del trabajo final.
 Los archivos incluidos permiten reproducir la generación, lectura y resumen de los datos.
@@ -39,3 +40,7 @@ El DOI se completará después de publicar en Zenodo.
 ## Contacto
 
 Cristian Henríquez-Manríquez, c.henriquezma@udd.cl, ORCID: https://orcid.org/0000-0002-8411-9548
+
+## Cómo citar
+
+Henríquez-Manríquez, Cristian (2026). *Mediciones horarias de temperatura y humedad de un sensor ambiental (datos de ejemplo)* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22731159
